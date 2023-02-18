@@ -4,6 +4,16 @@
 
 After I was given a Zorba Portable Computer, I was pleased to discover the archives maintained by the Zorba Equipment Preservation Society (ZEPS) at [http://zorba.z80.de](http://zorba.z80.de). They even had scans of [schematic diagrams](http://zorba.z80.de/telcon.htm) ([local zip file](zorba-schematics-from-zorba.z80.de.zip)) of the hardware. My machine had a feature that didn't appear on the schematics: an unlabeled RCA jack squeezed between the printer and comm ports on the rear panel. The RCA jack was also visible in a [photo](http://www.zorba.z80.de/images/Modcomp.Zorba.RearSide.1.jpg) in the ZEPS gallery, so I knew it wasn't unique to my Zorba. It was a composite video output, which seems to have been added to Telcon's design by Modular Micros. I decided to document it.
 
+Jump to:
+
+* [Official Documentation](Official-Documentation)
+* [Reading the Main Board Schematic](Reading-the-Main-Board-Schematic)
+* [Installation on the Main Board](Installation-on-the-Main-Board)
+* [A Close Look at the Composite Video Board](A-Close-Look-at-the-Composite-Video-Board)
+* [Reverse-Engineered Schematic Diagram](Reverse-Engineered-Schematic-Diagram)
+* [Observing the Circuit Behavior](Observing-the-Circuit-Behavior)
+* [Using the Composite Output](Using-the-Composite-Output)
+
 ## Official Documentation
 
 Here's all the official documentation I found: one loose page in the front pocket of the user manual's binder, which I was fortunate to receive with the computer.
