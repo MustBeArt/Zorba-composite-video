@@ -1361,7 +1361,7 @@
     (stroke (width 0) (type default))
     (uuid 2b7b5a05-46d5-4c06-a020-8ece75233cbb)
   )
-  (wire (pts (xy 68.58 119.38) (xy 71.12 119.38))
+  (wire (pts (xy 68.58 119.38) (xy 58.42 119.38))
     (stroke (width 0) (type default))
     (uuid 33e4add7-bbdf-4ceb-b73b-2ae58d3944f2)
   )
@@ -1687,7 +1687,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 15ab65e6-92bc-48f4-805a-2cc1ed7e0a11)
   )
-  (label "PULLUP" (at 71.12 119.38 0) (fields_autoplaced)
+  (label "PULLUP" (at 58.42 119.38 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 64af3c75-c85e-4cd7-a74c-d85027f618fe)
   )
@@ -2712,7 +2712,7 @@
   (symbol (lib_id "74xx:74LS175") (at 68.58 166.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e45caa48-c735-4ae9-ae91-fd8d13a2f0c6)
-    (property "Reference" "U1" (at 70.5359 149.86 0)
+    (property "Reference" "IC2" (at 70.5359 149.86 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS175" (at 70.5359 152.4 0)
@@ -2743,7 +2743,7 @@
     (instances
       (project "Zorba composite adapter"
         (path "/169d948f-f833-40a6-b230-21e2ec665763"
-          (reference "U1") (unit 1)
+          (reference "IC2") (unit 1)
         )
       )
     )
