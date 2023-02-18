@@ -6,13 +6,13 @@ After I was given a Zorba Portable Computer, I was pleased to discover the archi
 
 Jump to:
 
-* [Official Documentation](Official-Documentation)
-* [Reading the Main Board Schematic](Reading-the-Main-Board-Schematic)
-* [Installation on the Main Board](Installation-on-the-Main-Board)
-* [A Close Look at the Composite Video Board](A-Close-Look-at-the-Composite-Video-Board)
-* [Reverse-Engineered Schematic Diagram](Reverse-Engineered-Schematic-Diagram)
-* [Observing the Circuit Behavior](Observing-the-Circuit-Behavior)
-* [Using the Composite Output](Using-the-Composite-Output)
+* [Official Documentation](#official-documentation)
+* [Reading the Main Board Schematic](#reading-the-main-board-schematic)
+* [Installation on the Main Board](#installation-on-the-main-board)
+* [A Close Look at the Composite Video Board](#a-close-look-at-the-composite-video-board)
+* [Reverse-Engineered Schematic Diagram](#reverse-engineered-schematic-diagram)
+* [Observing the Circuit Behavior](#observing-the-circuit-behavior)
+* [Using the Composite Output](#using-the-composite-output)
 
 ## Official Documentation
 
